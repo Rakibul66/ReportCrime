@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "193130807175",
+    "firebase_url": "https://quizapp-a036a.firebaseio.com",
+    "project_id": "quizapp-a036a",
+    "storage_bucket": "quizapp-a036a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193130807175:android:ba07c729fc95d600e91d22",
+        "android_client_info": {
+          "package_name": "com.user.reportacrime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193130807175-nm1u01m52u0nt5khhkinif6hu87krhqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.reportacrime",
+            "certificate_hash": "3c5ab3e2cc64d7ffd227ad8d2a6606ecdb4c8646"
+          }
+        },
+        {
+          "client_id": "193130807175-hr625033oedhapopf8sik1ku1g9oihfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKeandw6ts6yeHxqaCpRBvWuM73iVh2xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193130807175-hr625033oedhapopf8sik1ku1g9oihfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
